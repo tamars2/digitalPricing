@@ -1,5 +1,19 @@
 # digitalPricing
 
+quote-builder.herokuapp.com
+
+Core Technologies:
+
+```
+MongoDB
+Express
+React
+NodeJS
+MySQL
+Sequelize
+Passport
+BCrypt
+```
 
 Market Problem
 •	Sales currently depends on sales operations to generate consistent, directional pricing for clients
